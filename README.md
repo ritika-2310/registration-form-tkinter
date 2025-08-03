@@ -114,12 +114,19 @@ Confirmation is shown after successful deletion.
 ## 🛠️ Technologies Used
 <br>
 | Component        | Tech                  |
+<br>
 |------------------|------------------------|
+<br>
 | GUI              | Python `tkinter`, `ttk` |
+<br>
 | Database         | MySQL (`mysql.connector`) |
+<br>
 | Image Processing | `PIL` (Pillow) for background |
+<br>
 | Alerts & Prompts | `tkinter.messagebox` |
+<br>
 | Language         | Python 3.x             |
+<br>
 <br>
 ---
 <br>
